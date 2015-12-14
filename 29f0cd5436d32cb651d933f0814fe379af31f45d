@@ -1,1 +1,3 @@
 {"timestamp":"1450109028","author":"me@ttaylorr.com","location":{"commit":"29f0cd5436d32cb651d933f0814fe379af31f45d"}}
+
+{"timestamp":"1450109064","author":"me@ttaylorr.com","location":{"commit":"29f0cd5436d32cb651d933f0814fe379af31f45d","path":"./FOO"},"resolved":true}
